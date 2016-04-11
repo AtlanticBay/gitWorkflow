@@ -9,4 +9,6 @@ echo scottIntroduction() . "\n";
 
 echo "Calculate 5 + 5 = " . addValues(5, 5);
 
+echo name('Corey', 'Shelton');
+
 ?>
