@@ -7,7 +7,9 @@ echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo scottIntroduction() . "\n";
 
-echo "Calculate 5 + 5 = " . addValues(5, 5);
+echo "Calculate 5 + 5 = " . addValues(5, 5) . "\n";
+
+echo thisSucks("Mondays") . "\n";
 
 echo name('Corey', 'Shelton');
 
