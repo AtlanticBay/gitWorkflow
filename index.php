@@ -13,4 +13,6 @@ echo thisSucks("Mondays") . "\n";
 
 echo name('Corey', 'Shelton');
 
+echo "my new work";
+
 ?>
