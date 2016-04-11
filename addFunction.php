@@ -1,5 +1,6 @@
 <?php 
 
 function addValues($a, $b) {
-	return $a + $b;
+	$calc = $a + $b;
+	return $calc;
 }
