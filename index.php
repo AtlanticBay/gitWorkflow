@@ -1,6 +1,9 @@
 <?php
 require('scottfile.php');
 include('tyler.php');
+include('dariustest.php');
+
+
 
 echo "Welcome to GitHub Workflow Training!!!\n";
 
