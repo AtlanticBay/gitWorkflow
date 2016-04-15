@@ -10,5 +10,7 @@ echo scottfunc() . "\n";
 ty_echo_name();
 
 echo "\n" . scottfunc2() . "\n";
+
+echo "\n". myFunctionD1(). "\n";
 ?>
 
