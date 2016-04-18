@@ -1,3 +1,8 @@
+<?php
+require_once "new-function.php";
+require("ScottFile.php");
+?>
+
 <!DOCTYPE html>
 <html>
 <header>
@@ -31,16 +36,17 @@
 	height: 80px; 
 }
 </code></pre>
-
-</body>
-<html>
-
-
-
 <?php
-require("ScottFile.php");
+echo "Welcome to GitHub Workflow Training!!!\n";
+
+echo "5 + 5 = " . add(5,5) . '\n';
+
+
+
 
 echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo scottFunc1() . "\n";
 ?>
+</body>
+<html>
