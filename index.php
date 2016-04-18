@@ -7,6 +7,7 @@ require("ScottFile.php");
 <html>
 <header>
     <title>Happiness is a smooth workflow</title>
+        <link type="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </header>
 <body>
     <h1>HTML Ipsum Presents</h1>
@@ -40,9 +41,6 @@ require("ScottFile.php");
 echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo "5 + 5 = " . add(5,5) . '\n';
-
-
-
 
 echo "Welcome to GitHub Workflow Training!!!\n";
 
