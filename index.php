@@ -1,5 +1,6 @@
 <?php
 require_once "new-function.php";
+require_once "multiply.php";
 require("ScottFile.php");
 ?>
 
@@ -41,12 +42,10 @@ echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo "5 + 5 = " . add(5,5) . '\n';
 
-
-
-
 echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo scottFunc1() . "\n";
+echo "Multiply 4 x 5 = " . multiply(4,5);
 ?>
 </body>
 <html>
