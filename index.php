@@ -47,6 +47,8 @@ echo "5 + 5 = " . add(5,5) . '\n';
 echo "Welcome to GitHub Workflow Training!!!\n";
 
 echo scottFunc1() . "\n";
+
+scottFunc2() . "\n";
 ?>
 </body>
 <html>
