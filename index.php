@@ -8,6 +8,7 @@ echo "Hello from gitpractice folder! \n";
 echo "third line! \n";
 echo jackieFunc1() . "\n";
 test();
+test2();
 echo scottFunkyBunch() . "\n";
 
 ?>
