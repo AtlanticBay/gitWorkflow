@@ -10,5 +10,6 @@ echo jackieFunc1() . "\n";
 test();
 test2();
 echo scottFunkyBunch() . "\n";
+echo scottNewFunc() . "\n";
 
 ?>
