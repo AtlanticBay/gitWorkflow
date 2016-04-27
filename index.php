@@ -11,5 +11,6 @@ test();
 test2();
 echo scottFunkyBunch() . "\n";
 echo scottNewFunc() . "\n";
+echo coleGitHub() . "\n";
 
 ?>
